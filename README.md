@@ -6,12 +6,13 @@ Specific details/documentation are provided as part of each repository.
 
 ## asubExec
 
-[asubExec](https://github.com/AustralianSynchrotron/asubExec) - an EPICS aSub record support module.
+[asubExec](https://github.com/AustralianSynchrotron/asubExec) - an EPICS aSub record support module to call (python) scripts.
+
 
 ## concatRecord
 
 [concat record](https://github.com/AustralianSynchrotron/concat-record)  - an EPICS record to perform concatination of scalar and/or arrays.
- 
+
 
 ## lightflow
 
@@ -26,6 +27,10 @@ Specific details/documentation are provided as part of each repository.
 
 ## redpitaya epics
 
-[redpitaya epics] (https://github.com/AustralianSynchrotron/redpitaya-epics)  - an EPICS driver support for RedPitaya based on asynPortDriver.
+[redpitaya epics](https://github.com/AustralianSynchrotron/redpitaya-epics)  - an EPICS driver support for RedPitaya based on asynPortDriver.
 
+
+## interpolation
+
+[interpolation](https://github.com/AustralianSynchrotron/interpolation) - an EPICS aSub record support module for multi-dimensional interpolation.
 
