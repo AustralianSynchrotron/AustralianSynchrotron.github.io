@@ -1,15 +1,16 @@
-# AustralianSynchrotron.github.io
+# Australian Synchrotron @ github
 
-The reppository provides an overall documentation index.
-Specific details/documentation are part of each repository.
+This page privides an index to available reppositories
+Specific details/documentation are provided as part of each repository.
 
 
 ## asubExec
 
-[https://github.com/AustralianSynchrotron/asubExec](https://github.com/AustralianSynchrotron/asubExec)  [readme](https://github.com/AustralianSynchrotron/asubExec/blob/README.md)
+[asubExec](https://github.com/AustralianSynchrotron/asubExec) - an EPICS aSub record suppord module.
 
 ## concatRecord
 
-[https://github.com/AustralianSynchrotron/concat-record](AustralianSynchrotron/concat-record)  [readme](/concat-record/blob/README.md)
+[concat record](https://github.com/AustralianSynchrotron/concat-record)  - an EPICS record to perform concatination of scalar and/or arrays.
+ 
 
 
